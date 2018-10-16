@@ -6,6 +6,8 @@
 
 ; Remember, ! means ALT key
 
+!Numpad0::Run "C:\Users\pandreoli\Documents\Development"
+
 ; ---------------------
 ; VS Code Environments
 ; ---------------------
